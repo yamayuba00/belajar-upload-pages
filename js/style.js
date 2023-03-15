@@ -1,0 +1,1 @@
+console.log('melakukan penambahan data baru di github pages')
